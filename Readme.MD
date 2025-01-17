@@ -5,3 +5,6 @@ https://stackoverflow.com/questions/47854463/docker-got-permission-denied-while-
 
 l:admin@example.com
 p: superSecure
+
+
+It has tags instead of directory, adding documents is difficult
